@@ -107,3 +107,5 @@ db.users.drop()
 ---
 
 > **Note:** This repository is a collection of MongoDB projects and practice exercises. Build phase is in progress.
+
+projects are still pending 
