@@ -162,17 +162,4 @@ This project demonstrates real-world MongoDB aggregation:
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 👤 Author
-
-**Ankush Khakale**  
-[![GitHub](https://img.shields.io/badge/GitHub-ankushkhakale-black?style=flat-square&logo=github)](https://github.com/ankushkhakale)
-
----
-
 > ⭐ If you found this project helpful, please give it a star!
